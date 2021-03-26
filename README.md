@@ -8,7 +8,7 @@ A simple exercise to understand basic concepts of web development.
 Build a web app where a user can list public repositories of a github user, using HTML, CSS and JS.
 
 
-## Requirements
+## Software functional requirements
 
 - User should enter a github username in input box;
 - User should press button to list repositories;
